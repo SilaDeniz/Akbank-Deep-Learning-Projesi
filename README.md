@@ -30,5 +30,12 @@ Eğitim süreci, modelin öğrenme yeteneğini geliştirmek için gerçekleştir
 
 ## Özet
 Bu proje, derin öğrenme tekniklerini kullanarak balık türlerini sınıflandırmak için kapsamlı bir yaklaşım sunar. Veri ön işleme, model mimarisi oluşturma, hiperparametre optimizasyonu ve eğitim adımlarıyla, görüntü sınıflandırma görevini etkili bir şekilde yerine getirecek bir sistem geliştirilmiştir.
+## Proje İçeriği
+
+Bu projeyle ilgili detaylı incelemeleri ve analizleri görmek için aşağıdaki Kaggle notebook'unu inceleyebilirsiniz:
+
+[Kaggle'daki Akbank Derin Öğrenme Projesi Notebook'u](https://www.kaggle.com/code/sladeniz/akbank-derin-renme-projesi/edit)
+
+
 
 
